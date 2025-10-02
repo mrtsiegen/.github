@@ -1,9 +1,10 @@
 <img src="mrt_logo.png" width="400">
 
 # MRT Siegen
-Here you find code to current research projects of the research group **Automatic Control - Mechatronics** under the direction of the Prof. Dr.-Ing. Oliver Nelles. 
 
-### Research Topics (Excerpt):
+This repository contains code related to current research projects of the research group Automatic Control – Mechatronics, led by Prof. Dr.-Ing. Oliver Nelles.
+
+## Research Topics (Excerpt):
 - Design of Experiments
    - Preprocessing for Data-Driven Modeling with Probability Density Estimation
    - Density-Based Data Weighting
@@ -15,4 +16,5 @@ Here you find code to current research projects of the research group **Automati
    - Gray-Box State Space Modeling
 
 ## Contact Information
-Find out more about current research and contact information [on our Website](https://www.mb.uni-siegen.de/mrt/index.html.en?lang=en).
+
+Further information about current research projects and contact details can be found on our website.
