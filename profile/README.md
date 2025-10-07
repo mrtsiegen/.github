@@ -4,7 +4,7 @@
 
 # MRT Siegen
 
-This repository contains code related to current research projects of the research group Automatic Control – Mechatronics, led by Prof. Dr.-Ing. Oliver Nelles.
+This repository contains code related to current research projects of the research group *Automatic Control – Mechatronics*, led by Prof. Dr.-Ing. Oliver Nelles.
 
 ## Research Topics (Selection):
 - Design of Experiments
