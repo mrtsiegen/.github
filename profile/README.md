@@ -1,4 +1,6 @@
-<img src="mrt_logo.png" width="350" style="display: block; margin-left: auto;margin-right: auto;">
+<div align="center">
+   <img src="mrt_logo.png" width="350" style="display: block;">
+</div>
 
 # MRT Siegen
 
