@@ -15,6 +15,9 @@ This repository contains code related to current research projects of the resear
    - Nonlinear State Space Identification
    - Gray-Box State Space Modeling
 
+## Literature 
+[[1]]( https://doi.org/10.1007/978-3-030-47439-3) Nelles, Oliver. 2020. Nonlinear System Identification: From Classical Approaches to Neural Networks, Fuzzy Models, and Gaussian Processes. Springer International Publishing.
+
 ## Contact Information
 
 Further information about current research projects and contact details can be found on our website.
