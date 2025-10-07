@@ -4,7 +4,7 @@
 
 This repository contains code related to current research projects of the research group Automatic Control – Mechatronics, led by Prof. Dr.-Ing. Oliver Nelles.
 
-## Research Topics (Excerpt):
+## Research Topics (Selection):
 - Design of Experiments
    - Preprocessing for Data-Driven Modeling with Probability Density Estimation
    - Density-Based Data Weighting
